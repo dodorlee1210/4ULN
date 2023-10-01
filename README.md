@@ -13,12 +13,7 @@
 - inventory system
 
 - [ ] a brief, high-level description of what kind of application your team is thinking of developing. -- Paul
-This is mostly just so we can give you some initial feedback on whether your team might want to reconsider your 
-project direction.
 - [ ] a link to the documentation for an API your team can use related to the domain. -- Dorothy
 - [ ] a screenshot of using a tool to try out the API -- Jason/Minseok
-(like https://www.postman.com/Links to an external site. or https://hoppscotch.io/Links to an external site.Links to an external site.)
 - [ ] example output of running your Java code (see below). -- Jason/Minseok
 - [ ] a list of any technical problems blocking progress (if any) -- All
-please don't hesitate to ask such questions on Piazza too of course.
-
