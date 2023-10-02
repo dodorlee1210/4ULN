@@ -28,8 +28,9 @@ The player has to have more than one of health and less than three stress to kee
 The player can spend TBucks to buy items that help with surviving in the game or can earn TBucks in different events.
 The items the player receives or buys will be stored in the student's bag. When the item is lost or used, it will be removed from the bag. 
 
-A private archive of events the choices made for each event will exist. The archived will be accessed for an evaluation of the total score of the game after it is finished. 
-The score, calculated from the archive based on specific principles, will be shown to the player after the game has ended.
+A private archive of events the choices made for each event will exist. The archive will be accessed for an evaluation of the total score of the game after it is finished. 
+All the data stored in archive is deleted immediately after the score is calculated.
+The score will be shown to the player after the game has ended.
 
 
 
