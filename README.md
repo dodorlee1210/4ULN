@@ -21,7 +21,6 @@
     We will leverage a language generation API to implement the core algorithms and generate dynamic narratives 
     within the text-based adventure game. It will help generate text responses based on player choices, manage 
     dialogues, and adapt the narrative to the player's decisions. 
-
     In addition to the core gameplay, the application will include various features to enhance the user experience and engagement. 
     These features include the ability to play with a friend, support for multiple languages (with a default option in English), 
     a ranking system or a game token might be given to players to assess their progress in the game. Overall, this application  
