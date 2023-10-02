@@ -59,4 +59,6 @@ When we know the preceding goal is satisfied, we will aim to work to connect wit
       ![스크린샷 2023-10-01 오후 10 49 06](https://github.com/dodorlee1210/4ULN/assets/119543270/f8c7b82d-bc09-4efe-915f-2c5d4c6bfc98)
 
 - [ ] example output of running your Java code (see below). -- Jason/Minseok
+      <img width="1389" alt="2023-10-02_11 40 38" src="https://github.com/dodorlee1210/4ULN/assets/119543270/b8495406-32bb-4836-8c7b-d187bc3abf3f">
+
 - [ ] a list of any technical problems blocking progress (if any) -- All
