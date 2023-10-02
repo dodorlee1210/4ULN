@@ -20,7 +20,7 @@ public class ExploringAPI {
 
     public static String chatGPT(String message) {
         String url = "https://api.openai.com/v1/chat/completions";
-        String apiKey = "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";
+        String token = System.getenv("OPENAI_TOKEN");
         String model = "gpt-3.5-turbo";
 
         try {
@@ -28,7 +28,7 @@ public class ExploringAPI {
             URL obj = new URL(url);
             HttpURLConnection connection = (HttpURLConnection) obj.openConnection();
             connection.setRequestMethod("POST");
-            connection.setRequestProperty("Authorization", "Bearer " + apiKey);
+            connection.setRequestProperty("Authorization", "Bearer " + token);
             connection.setRequestProperty("Content-Type", "application/json");
 
             // Build the request body
