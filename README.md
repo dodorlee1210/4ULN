@@ -24,8 +24,7 @@
     In addition to the core gameplay, the application will include various features to enhance the user experience and engagement. 
     These features include the ability to play with a friend, support for multiple languages (with a default option in English), 
     a ranking system or a game token might be given to players to assess their progress in the game. Overall, this application  
-    aims to create an engaging text-based adventure game that offers both a captivating narrative and a
-    user-friendly interface for players to enjoy.
+    aims to create an engaging text-based adventure game that offers both a captivating narrative and a user-friendly interface for players to enjoy.
 
 - [ ] a link to the documentation for an API your team can use related to the domain. -- Dorothy
 - [ ] a screenshot of using a tool to try out the API -- Jason/Minseok
