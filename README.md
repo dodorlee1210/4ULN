@@ -12,7 +12,8 @@
 - different types of items and collectibles
 - inventory system
 
-- [ ] a brief, high-level description of what kind of application your team is thinking of developing.
+##### Project Domain
+   a brief, high-level description of what kind of application your team is thinking of developing.
     Our team is considering developing a text-based, UofT themed (Life at UofT) adventure game. 
     With a graphical user interface (GUI), it will provide an immersive and interactive experience for the players. 
     This game will feature narratives with some illustrations to enrich the storytelling, and it will require 
@@ -26,6 +27,7 @@
     a ranking system or a game token might be given to players to assess their progress in the game. Overall, this application  
     aims to create an engaging text-based adventure game that offers both a captivating narrative and a
     user-friendly interface for players to enjoy.
+
 - [ ] a link to the documentation for an API your team can use related to the domain. -- Dorothy
 - [ ] a screenshot of using a tool to try out the API -- Jason/Minseok
 - [ ] example output of running your Java code (see below). -- Jason/Minseok
