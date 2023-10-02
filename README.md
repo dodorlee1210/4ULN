@@ -3,6 +3,7 @@
 
 ### Week 3 Group README
 
+#### Problem Domain & Description of Application
 Our team is considering developing a text-based, UofT themed (Life at UofT) adventure game where the users survive as a University of Toronto student. 
 With a graphical user interface (GUI), it will provide an immersive and interactive experience for the players.
 This game will feature narratives with some illustrations to enrich the storytelling, and it will require
@@ -50,7 +51,9 @@ a ranking system or a game token might be given to players to assess their progr
 SurviveUofT will create an engaging text-based adventure by offering a captivating narrative. 
 When we know the preceding goal is satisfied, we will aim to work to connect with and satisfy all players so that they can experiment with multiple features that will enrich the game experience even more.
 
-- [ ] a link to the documentation for an API your team can use related to the domain. -- Dorothy
+#### Link to Documentation of GPT 3.5 API
+[Link to Documentation](https://platform.openai.com/docs/models/gpt-3-5)
+
 - [ ] a screenshot of using a tool to try out the API -- Jason/Minseok
 - [ ] example output of running your Java code (see below). -- Jason/Minseok
 - [ ] a list of any technical problems blocking progress (if any) -- All
