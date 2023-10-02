@@ -37,19 +37,18 @@ public class ExploringAPI {
             connection.setDoOutput(true);
             OutputStreamWriter writer = new OutputStreamWriter(connection.getOutputStream());
             writer.write(body);
-            writer.flush();
             writer.close();
 
             // Get response
-            BufferedReader in = new BufferedReader(new InputStreamReader(connection.getInputStream()));
-            String inputLine;
-            StringBuffer response = new StringBuffer();
+            BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+            String line;
+            StringBuilder response = new StringBuilder();
 
-            while ((inputLine = in.readLine()) != null) {
-                response.append(inputLine);
+            while ((line = reader.readLine()) != null) {
+                response.append(line);
             }
 
-            in.close();
+            reader.close();
 
             // return the content's part only.
             return getResponse(response.toString());
