@@ -5,6 +5,7 @@
 
 #### Problem Domain & Description of Application
 Our team is considering developing a text-based, UofT themed (Life at UofT) adventure game where the users survive as a University of Toronto student. 
+We have decided the title of the game to be **SurviveUofT**.
 With a graphical user interface (GUI), it will provide an immersive and interactive experience for the players.
 This game will feature narratives with some illustrations to enrich the storytelling, and it will require
 players to make choices (user input: click on possible options) that impact the course of the story.
